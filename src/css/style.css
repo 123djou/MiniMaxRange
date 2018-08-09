@@ -1,0 +1,16 @@
+.user{
+    border:1px solid gray;
+    border-radius:10px;
+   
+    text-align: center;
+ width:100px;
+ height:200px;
+ margin:50px auto;
+
+}
+.list{
+    width:400px;
+    display: flex;
+    flex-flow: row wrap;
+    margin: auto;
+}
